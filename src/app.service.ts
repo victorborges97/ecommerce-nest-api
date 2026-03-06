@@ -8,7 +8,7 @@ export class AppService {
 
   getObject(): any {
     return {
-      nome: 'João Victor',
+      nome: 'João Victor'
     };
   }
 }
